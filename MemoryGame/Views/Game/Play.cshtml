@@ -1,0 +1,26 @@
+@model MemoryGame.Models.GameViewModel
+
+<div class="container">
+    <h1>Memory Game</h1>
+    <div class="row">
+        @foreach (var card in Model.Cards)
+        {
+            <div class="col-3">
+                <form asp-action="MakeMove" method="post">
+                    <input type="hidden" name="gameId" value="@Model.Game.GameID" />
+                    <input type="hidden" name="cardPosition" value="@card.CardPosition" />
+                    <button type="submit" class="btn btn-primary">
+                        @if (card.IsMatched)
+                        {
+                            <span>@card.CardValue</span>
+                        }
+                        else
+                        {
+                            <span>?</span>
+                        }
+                    </button>
+                </form>
+            </div>
+        }
+    </div>
+</div>

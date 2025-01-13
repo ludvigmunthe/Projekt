@@ -1,0 +1,7 @@
+namespace MemoryGame.Models{
+    public class GameMethods{
+        public GameMethods(){}
+        
+
+    }
+}
