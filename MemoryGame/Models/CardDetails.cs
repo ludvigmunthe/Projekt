@@ -6,6 +6,8 @@ namespace MemoryGame.Models{
         public string CardPosition { get; set; }
         public string CardValue { get; set; }
         public bool IsMatched { get; set; }
+		public bool HEJ { get; set; }
+
 
     }
 }
