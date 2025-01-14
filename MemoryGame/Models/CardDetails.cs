@@ -3,8 +3,8 @@ namespace MemoryGame.Models{
     {
         public int CardID { get; set; }
         public int GameID { get; set; }
-        public string CardPosition { get; set; }
-        public string CardValue { get; set; }
+        public string? CardPosition { get; set; }
+        public string? CardValue { get; set; }
         public bool IsMatched { get; set; }
 	
 

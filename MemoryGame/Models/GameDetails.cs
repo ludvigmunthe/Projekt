@@ -9,7 +9,7 @@ namespace MemoryGame.Models
         public int GameID { get; set; }
         public int Player1 { get; set; }
         public int Player2 { get; set; }
-        public string GameStatus { get; set; }
+        public string? GameStatus { get; set; }
         public DateTime? StartTime { get; set; }
         public DateTime? EndTime { get; set; }
 
