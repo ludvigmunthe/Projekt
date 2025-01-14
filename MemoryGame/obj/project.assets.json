@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/ludvigmunthe/.nuget/packages/": {}
+    "/Users/elinsoderstrom/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ludvigmunthe/Documents/databaswebb/Projekt/MemoryGame/MemoryGame.csproj",
+      "projectUniqueName": "/Users/elinsoderstrom/Desktop/Databasteknik & webbaserade system/Projekt/MemoryGame/MemoryGame.csproj",
       "projectName": "MemoryGame",
-      "projectPath": "/Users/ludvigmunthe/Documents/databaswebb/Projekt/MemoryGame/MemoryGame.csproj",
-      "packagesPath": "/Users/ludvigmunthe/.nuget/packages/",
-      "outputPath": "/Users/ludvigmunthe/Documents/databaswebb/Projekt/MemoryGame/obj/",
+      "projectPath": "/Users/elinsoderstrom/Desktop/Databasteknik & webbaserade system/Projekt/MemoryGame/MemoryGame.csproj",
+      "packagesPath": "/Users/elinsoderstrom/.nuget/packages/",
+      "outputPath": "/Users/elinsoderstrom/Desktop/Databasteknik & webbaserade system/Projekt/MemoryGame/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/ludvigmunthe/.nuget/NuGet/NuGet.Config"
+        "/Users/elinsoderstrom/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -38,6 +38,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -49,10 +54,25 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.35, 6.0.35]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.osx-arm64",
+            "version": "[6.0.35, 6.0.35]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.35, 6.0.35]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -61,7 +81,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/RuntimeIdentifierGraph.json"
       }
     }
   }
