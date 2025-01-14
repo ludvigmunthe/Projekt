@@ -1,0 +1,14 @@
+@model MemoryGame.Models.PlayerDetails
+
+<h1>Log in to play</h1>
+<form asp-action="Login">
+	<label>Username:</label> </br>
+	<input asp-for="PlayerUsername" type="text"/>
+	</br>
+	</br>
+	<label>Password:</label> </br>
+	<input asp-for="PasswordHash" type="password"/>
+	</br>
+	</br>
+	<input type="submit" value="Log in">
+</form>
