@@ -1,4 +1,4 @@
-using MemoryGame.Models;
+/*using MemoryGame.Models;
 using System.Data;
 using Microsoft.Data.SqlClient;
 
@@ -75,4 +75,4 @@ namespace MemoryGame.Models{
         
         }
     }
-}
+} */

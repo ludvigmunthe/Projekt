@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "2Wb3Ny+pqmk=",
+  "dgSpecHash": "WE9ehRCTnJk=",
   "success": true,
   "projectFilePath": "/Users/elinsoderstrom/Desktop/Databasteknik & webbaserade system/Projekt/MemoryGame/MemoryGame.csproj",
   "expectedPackageFiles": [
+    "/Users/elinsoderstrom/.nuget/packages/microsoft.entityframeworkcore.tools/9.0.0/microsoft.entityframeworkcore.tools.9.0.0.nupkg.sha512",
     "/Users/elinsoderstrom/.nuget/packages/microsoft.netcore.app.ref/6.0.35/microsoft.netcore.app.ref.6.0.35.nupkg.sha512",
     "/Users/elinsoderstrom/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.35/microsoft.aspnetcore.app.ref.6.0.35.nupkg.sha512",
     "/Users/elinsoderstrom/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.35/microsoft.netcore.app.host.osx-arm64.6.0.35.nupkg.sha512"

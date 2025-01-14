@@ -32,6 +32,3 @@
 /Users/elinsoderstrom/Desktop/Databasteknik & webbaserade system/Projekt/MemoryGame/obj/Debug/net6.0/MemoryGame.RazorAssemblyInfo.cache
 /Users/elinsoderstrom/Desktop/Databasteknik & webbaserade system/Projekt/MemoryGame/obj/Debug/net6.0/MemoryGame.RazorAssemblyInfo.cs
 /Users/elinsoderstrom/Desktop/Databasteknik & webbaserade system/Projekt/MemoryGame/obj/Debug/net6.0/MemoryGame.sourcelink.json
-/Users/elinsoderstrom/Desktop/Databasteknik & webbaserade system/Projekt/MemoryGame/obj/Debug/net6.0/MemoryGame.dll
-/Users/elinsoderstrom/Desktop/Databasteknik & webbaserade system/Projekt/MemoryGame/obj/Debug/net6.0/refint/MemoryGame.dll
-/Users/elinsoderstrom/Desktop/Databasteknik & webbaserade system/Projekt/MemoryGame/obj/Debug/net6.0/MemoryGame.pdb

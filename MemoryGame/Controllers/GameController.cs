@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
-using MemoryGame.Data;
+// using MemoryGame.Data;
 using MemoryGame.Models;
-using Microsoft.Data.SqlClient;
+//using Microsoft.Data.SqlClient;
 using System.Linq;
 
 namespace MemoryGame.Controllers
